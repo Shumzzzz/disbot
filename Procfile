@@ -1,2 +1,2 @@
-worker: disbot.py
+worker: python disbot.py
 todo: worker: disbot.py
